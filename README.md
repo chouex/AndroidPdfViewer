@@ -1,5 +1,8 @@
 AndroidPdfViewer
 ================
+
+This is a fork version of tekinarslan/AndroidPdfViewer, removed x86 lib and some activity to reduce size.
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidPdfViewer-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/1124)
 
 
